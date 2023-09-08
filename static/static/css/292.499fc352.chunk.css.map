@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/292.499fc352.chunk.css","mappings":"AAAA,eACE,YAEA,CAGF,yBAHE,WADA,UAMA","sources":["Components/Canvas/RBT/compTree.scss"],"sourcesContent":[".treeContainer {\n  padding: 60px;\n  width: 100%;\n  height: 600;\n}\n\n.compTree {\n  width: 100%;\n  height: 600;\n}\n"],"names":[],"sourceRoot":""}

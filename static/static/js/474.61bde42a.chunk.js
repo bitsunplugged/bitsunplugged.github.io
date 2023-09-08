@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[474],{7474:function(n,t,u){u.r(t),u.d(t,{default:function(){return o}});var e=u(5671),s=u(3144),o=function(){function n(){(0,e.Z)(this,n),this.jobs={}}return(0,s.Z)(n,[{key:"addJob",value:function(n){this.jobs[n]=[]}},{key:"addTask",value:function(n,t){this.jobs[n].push(t)}},{key:"getTasks",value:function(n){return this.jobs[n]}}]),n}()}}]);
+//# sourceMappingURL=474.61bde42a.chunk.js.map

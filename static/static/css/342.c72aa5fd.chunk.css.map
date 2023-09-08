@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/342.c72aa5fd.chunk.css","mappings":"AAAA,UACI,oBAGA,yBADA,UADA,SAEA","sources":["Components/Canvas/RBT/compControls.scss"],"sourcesContent":[".controls {\n    align-self: flex-end;\n    width: 10%; //40\n    height: 5%; //20\n    background-color: #f30192;\n}"],"names":[],"sourceRoot":""}
